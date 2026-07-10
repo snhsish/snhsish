@@ -1,22 +1,18 @@
 <img width="1500" height="500" alt="twitterheader" src="https://github.com/user-attachments/assets/739acd71-1494-4c99-a86d-b3940159dbef" />
 
-#### hello :D
+---
 
-**i'm [snehasish](https://snehasish.xyz)** (aka "sish") <br/>
-an 18 year old **full-stack typescript web and app developer** based in india, with interests in tech, linux, low-level, space and physics <br />
+hi, i'm **[snehasish](https://snehasish.xyz)** (aka "sish") <br/>
+a 19 year old full-stack **typescript developer and interface designer** based in india <br />
 
-<a href="https://x.com/snehasishxyz" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="30" /></a>
-<a href="https://linkedin.com/in/snxhasish" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" /></a>
-<a href="https://instagram.com/snehasish" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" /></a>
-<a href="https://discord.gg/K6k6ebkJkx" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="30" /></a>
+[x.com/snhsish](https://x.com/snhsish)  |  [instagram.com/snehasish](https://instagram.com/snehasish)  | [linkedin.com/snhsish](https://linkedin.com/in/snhsish)  |  [discord server](https://discord.gg/K6k6ebkJkx)
 
 <br />
 
-i create creative sites with mostly [next.js](https://nextjs.org). also into low-level, linux and hardware stuff (rasp pi's and arduino's).
-
-i am currently contributing to open-source projects and working on improving my CV.
-
-i use NixOS dual booted with windows (for gaming). [my nixOS dotfiles](https://github.com/snxhasish/nixos-dotfiles)
+- i build creative websites and applications, with mostly [next.js](https://nextjs.org) and [react-native](https://reactnative.dev)
+- currently contributing and building open-source projects and improving my [resume](https://snehasish.xyz/resume).
+- i am also getting into low-level programming, and ai/ml 
+- i use [NixOS](https://writings.snehasish.xyz/nixos), dual booted with windows 11 (for gaming). [my nixOS dotfiles](https://github.com/snhsish/nixos-dotfiles)
 
 you can know more about me on [snehasish.xyz](https://snehasish.xyz)
 
@@ -28,9 +24,20 @@ you can know more about me on [snehasish.xyz](https://snehasish.xyz)
 
 ---
 
-#### [my nixOS rice](https://github.com/snxhasish/nixos-dotfiles)
+####
 
-| ![1](https://raw.githubusercontent.com/snxhasish/nixos-dotfiles/main/previews/home.png) | ![2](https://raw.githubusercontent.com/snxhasish/nixos-dotfiles/main/previews/spotify.png) |
+![gh stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=snhsish&theme=ocean_dark)
+
+<div align="left">
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=snhsish&theme=ocean_dark" alt="top languages" />
+  <img height="175em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=snhsish&theme=ocean_dark" alt="stats"
+</div>
+
+---
+
+#### [my nixOS](https://writings.snehasish.xyz/nixos)
+
+| ![1](https://cdn.sanity.io/images/l1iolqdr/production/483f20ec52b8f5247ecef770437640f113a2cabb-1920x1080.png) | ![2](https://cdn.sanity.io/images/l1iolqdr/production/6e49a62f9078808d3e350974e0af78b819ed6eb3-1920x1080.png) |
 | --- | --- |
-| ![3](http://raw.githubusercontent.com/snxhasish/nixos-dotfiles/main/previews/terminals.png) | ![4](https://raw.githubusercontent.com/snxhasish/nixos-dotfiles/main/previews/vscode.png) |
+| ![3](https://cdn.sanity.io/images/l1iolqdr/production/bb97755b72dcbe0d38d67ed7058b1b07d0296e7a-1920x1080.png) | ![4](https://cdn.sanity.io/images/l1iolqdr/production/d130f11e9581da2ca3de4cb31400652dc98bdb1b-1920x1080.png) |
 
