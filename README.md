@@ -1,9 +1,8 @@
-<img width="1500" height="500" alt="twitterheader" src="https://github.com/user-attachments/assets/739acd71-1494-4c99-a86d-b3940159dbef" />
-
----
+<!-- <img width="1500" height="500" alt="twitterheader" src="https://github.com/user-attachments/assets/739acd71-1494-4c99-a86d-b3940159dbef" /> -->
 
 hi, i'm **[snehasish](https://snehasish.xyz)** (aka "sish") <br/>
-a 19 year old full-stack **typescript developer and interface designer** based in india <br />
+a 19 year old **software engineer and interface designer** based in india <br />
+you can discover my work at [sish.work](https://sish.work) <br/>
 
 [x.com/snhsish](https://x.com/snhsish)  |  [instagram.com/snehasish](https://instagram.com/snehasish)  | [linkedin.com/snhsish](https://linkedin.com/in/snhsish)  |  [discord server](https://discord.gg/K6k6ebkJkx)
 
